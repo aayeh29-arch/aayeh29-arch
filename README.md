@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Anthony Yeh
+## I'm interested in machine learning and neural networks
+## Current Projects:
+- Adaptive machine learning for lake water quality forecasting across data scarcity and lake morphology
+--United Nations’ Sustainable Development Goals 6 (Clean Water & Sanitation), 13 (Climate Action), 15 (Life on Land)
+--Employing Liquid Time-Constant Networks, Neural Ordinary Differential Equations, Neural Controlled Differential Equations, & Time-Aware Long Short-Term Memory to predict lake water quality from thermal & chemical data (PyTorch)
 
-<!--
-**aayeh29-arch/aayeh29-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-
+## Past Projects
+-
+-
+-
