@@ -1,5 +1,5 @@
 Hi, I'm Anthony Yeh, and I'm interested in machine learning and neural networks.
-## Current Ongoing Research:
+## Current Ongoing Research
 - Adaptive machine learning for lake water quality forecasting across data scarcity and lake morphology <br> (Colby College HUMANE Lab Summer Academic Research Assistant)
   - Employing Liquid Time-Constant Networks, Neural Ordinary Differential Equations, Neural Controlled Differential Equations, & Time-Aware Long Short-Term Memory to predict lake water quality from thermal & chemical data (PyTorch)
 - Machine learning for accessible art descriptions (Colby College INSITE Lab Research Assistant)
