@@ -1,7 +1,11 @@
 Hi, I'm Anthony Yeh, and I'm interested in machine learning and neural networks.
 ## Current Ongoing Research
+- Bidirectional predictive coding for multimodal image-text conversion tasks
+  - Implementing Bidirectional Predictive Coding on Transformer and Convolutional Neural Network model architectures (TensorFlow)
+  - Training Encoder-Decoder model on nocaps dataset (TensorFlow)
 - Adaptive machine learning for lake water quality forecasting across data scarcity and lake morphology <br> (Colby College HUMANE Lab Summer Academic Research Assistant)
   - Employing Liquid Time-Constant Networks, Neural Ordinary Differential Equations, Neural Controlled Differential Equations, & Time-Aware Long Short-Term Memory to predict lake water quality from thermal & chemical data (PyTorch)
+  - Exploring causal discovery machine learning methods and Graph Neural Networks (py-why/causal-learn) (PyTorch)
 - Machine learning for accessible art descriptions (Colby College INSITE Lab Research Assistant)
   - Fine-Tuning multimodal model LLaVA to generate descriptions for artworks by Low-Rank Adaptation (LoRA) (PyTorch)
   - Employing RLHF and pure RL to prevent large model divergence and optimize the artwork descriptions (PyTorch)
